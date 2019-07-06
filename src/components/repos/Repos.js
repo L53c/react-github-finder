@@ -9,4 +9,4 @@ Repos.propTypes = {
     repos: PropTypes.array.isRequired
 }
 
-export default RepoItem
+export default Repos
